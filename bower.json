@@ -1,5 +1,5 @@
 {
-  "name": "highcharts",
+  "name": "highcharts-drilldown",
   "version": "v5.0.3",
   "main": [
     "highcharts.js",
